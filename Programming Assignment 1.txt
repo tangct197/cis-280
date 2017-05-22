@@ -1,0 +1,4 @@
+Assignment 1
+Write a program that reads in ten whole numbers and that outputs the sum of all the numbers greater than zero, the sum of all the numbers less than zero (which will be a negative or zero), and the sum of all the numbers, whether positive, negative, or zero. The user enters the ten numbers just once each and the user can enter them in any order. Your program should not ask the user to enter the positive numbers and the negative numbers separately.
+
+Now modify this program so that it outputs the sum of all positive numbers, the average of all positive numbers, the sum of all non-positive numbers, the average of all non-positive numbers, the sum of all positive and non-positive numbers, and the average of all numbers entered.
